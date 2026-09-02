@@ -134,14 +134,4 @@ Next Question
       ↓
 Complete Scenario Level
 
-👥 TEAM 15
-
-K. Shalini [192472213]
-
-V. Rakshmitha [192465052]
-
-**SIMATS Engineering**
-
----
-
 > 🧠 PLAY • THINK • MATCH • DECIDE • IMPROVE
