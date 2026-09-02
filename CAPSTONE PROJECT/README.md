@@ -133,3 +133,27 @@ Update Score / Progress
 Next Question
       ↓
 Complete Scenario Level
+
+---
+
+# 👥 TEAM 15
+
+## Developed By
+
+**K. Shalini [192472213]**
+
+**V. Rakshmitha [192465052]**
+
+---
+
+### 🎓 CSA0926 – Programming in Java
+
+**Memory Match Mania – Capstone Project**
+
+**Guide:** Dr. M. Ramkumar
+
+**SIMATS Engineering**
+
+---
+
+> 🧠 PLAY • THINK • MATCH • DECIDE • IMPROVE
